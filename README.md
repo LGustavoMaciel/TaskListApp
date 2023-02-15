@@ -1,2 +1,3 @@
-# TaskListApp
-Um Aplicativo referente a uma lista de tarefas feito com Flutter, este para aplicações dos conceitos de trabalho com SQLite e MobX
+# TaskList
+Um projeto Flutter, referente a uma lista de tarefas para trabalhar com SQLite e gerencia de Estado com MobX.
+
