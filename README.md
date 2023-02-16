@@ -1,5 +1,5 @@
 # TaskList
-## Um projeto Flutter referente a uma lista de tarefas para trabalhar com SQLite e gerencia de Estado com MobX.
+ Um projeto Flutter referente a uma lista de tarefas para trabalhar com SQLite e gerencia de Estado com MobX.
 <hr>
 # 🎨 Layout do App
 <p align="center">
