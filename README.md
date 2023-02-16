@@ -4,9 +4,9 @@
 ## 🎨 Layout 
 
 <p align="center">
-<img src="assets/splash_print.png" width="220px">
-<img src="assets/login_print_screen.png" width="220px">
-<img src="assets/func.gif" width="220px">
+<img src="assets/splash_print.png" width="250px">
+<img src="assets/login_print_screen.png" width="250px">
+<img src="assets/func.gif" width="250px">
 </p>
 
 
